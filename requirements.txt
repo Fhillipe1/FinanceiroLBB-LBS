@@ -1,0 +1,7 @@
+streamlit
+pandas
+psycopg2
+datetime
+plotly.graph_objects
+streamlit_option_menu
+unidecode
