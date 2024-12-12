@@ -2,6 +2,6 @@ streamlit
 pandas
 psycopg2-binary
 datetime
-plotly.graph_objects
+plotly
 streamlit_option_menu
 unidecode
