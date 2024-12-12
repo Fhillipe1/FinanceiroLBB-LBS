@@ -5,3 +5,4 @@ datetime
 plotly
 streamlit_option_menu
 unidecode
+openpyxl
